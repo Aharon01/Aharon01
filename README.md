@@ -4,7 +4,5 @@
 A little about me: 
 
 * 🐍  I'm Anatoliy.
-* 🌍  I'm based in Moscow.
 * 💻  I'm Frontend developer.
-* 🧠  I'm learning anything that will help me become better.
 * ⚡  I'm secretly Batman... but don't tell anyone.
