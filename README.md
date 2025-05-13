@@ -1,6 +1,11 @@
  Hello, World! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Just a little about me:
 ====================================================================================================================================
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=filimonovalexey&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+
 * 🐍  I'm Anatoliy.
 * 💻  I'm Frontend developer.
 * ⚡  I'm secretly Batman... but don't tell anyone.
