@@ -1,4 +1,4 @@
- Hello, World! <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />  
+ Hello, World! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">  
 ====================================================================================================================================
 
 ### Just a little about me
