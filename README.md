@@ -35,8 +35,5 @@
 
 
 <div align="center">
-### Have a good day!
-<div>
 <img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
-</div>
 </div>
