@@ -3,9 +3,9 @@
 
 Just a little about me:
 
-* 🐍  I'm Anatoliy.
-* <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />  I'm Frontend developer.
-* <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />  I'm secretly Batman... but don't tell anyone.
+  🐍  I'm Anatoliy.
+  <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" />  I'm Frontend developer.
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />  I'm secretly Batman... but don't tell anyone.
 
 ### 🧠 Skills    
 
