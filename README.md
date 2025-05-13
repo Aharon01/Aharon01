@@ -2,6 +2,8 @@
  Just a little about me:
 ====================================================================================================================================
 
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/refs/heads/master/Emojis/Animals/Snake.png">
+
 
 * 🐍  I'm Anatoliy.
 * 💻  I'm Frontend developer.
