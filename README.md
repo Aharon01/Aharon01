@@ -34,10 +34,9 @@
 </div>
 
 
-
-
 <div align="center">
-
-<img height="120" alt="Thanks for visiting me" width="100%" font-style="normal" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
-
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/fnky/fnky/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
 </div>
