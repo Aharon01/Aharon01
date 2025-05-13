@@ -5,7 +5,7 @@ Just a little about me:
 
   🐍  I'm Anatoliy. <br>
   <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /> &nbsp; I'm Frontend developer. <br>
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /> &nbsp; I'm secretly Batman... but don't tell anyone.
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" />  &nbsp; I'm secretly Batman... but don't tell anyone.
 
 ### 🧠 Skills    
 
