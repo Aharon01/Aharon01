@@ -1,4 +1,4 @@
- Hello, World! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Just a little about me:
+ Hello, World! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Just a little about me:
 ====================================================================================================================================
 
 
