@@ -1,7 +1,7 @@
  Hello, World! <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  
 ====================================================================================================================================
 
-Just a little about me:
+<img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> <a href="https://github.com/xrkffgg/xrkffgg/blob/master/quotations.md"> Just a little about me:
 
 * 🐍  I'm Anatoliy.
 * 💻  I'm Frontend developer.
