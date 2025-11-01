@@ -9,7 +9,7 @@
   <li>I'm Anatoliy.</li>
   <li>I'm Frontend developer.</li>
   <li>Looking for opportunities to collaborate on open-source projects</li>
-   <li>Goal: to create your own unique product that will revolutionize the market</li>
+   <li>Goal: to create my own unique product that will revolutionize the market</li>
   <li>I'm secretly Batman... but don't tell anyone.</li>
 </ul>
 
