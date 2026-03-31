@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGFhNDdzdGRzd3RpZXBnbm1icjdoeWUwbzV0M2gwODB6Ynd6ZnRsaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</p>
-
 <h1 align="center">Hello, World! &nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="30px"></h1>
 
 <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="40" />&nbsp;Tech Stack    
