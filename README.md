@@ -10,21 +10,6 @@
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-%231a202c?style=flat-square&logo=tailwind-css)
 
-
-Where to find me<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40">
-====================================================================================================================================
- <p>
-   <a href="https://github.com/Aharon01">
-     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-   </a>
-   <a href="https://x.com/Aharon_01">
-     <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-   </a>
-   <a href="#">
-     <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-   </a>
-</p>
-
 <!-- Добавляем Snake Animation -->
 <div align="center">
   <picture>
